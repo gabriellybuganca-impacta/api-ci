@@ -1,1 +1,1 @@
-return {"resultado": a - b}
+a + b
